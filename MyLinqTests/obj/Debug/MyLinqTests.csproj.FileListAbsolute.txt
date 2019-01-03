@@ -1,0 +1,12 @@
+E:\Fundamentals\Fundamentals\MyLinqTests\bin\Debug\MyLinqTests.dll
+E:\Fundamentals\Fundamentals\MyLinqTests\bin\Debug\MyLinqTests.pdb
+E:\Fundamentals\Fundamentals\MyLinqTests\obj\Debug\MyLinqTests.csprojAssemblyReference.cache
+E:\Fundamentals\Fundamentals\MyLinqTests\obj\Debug\MyLinqTests.csproj.CoreCompileInputs.cache
+E:\Fundamentals\Fundamentals\MyLinqTests\obj\Debug\MyLinqTests.dll
+E:\Fundamentals\Fundamentals\MyLinqTests\obj\Debug\MyLinqTests.pdb
+E:\Fundamentals\Fundamentals\MyLinqTests\bin\Debug\nunit.framework.dll
+E:\Fundamentals\Fundamentals\MyLinqTests\bin\Debug\nunit.framework.pdb
+E:\Fundamentals\Fundamentals\MyLinqTests\bin\Debug\nunit.framework.xml
+E:\Fundamentals\Fundamentals\MyLinqTests\obj\Debug\MyLinqTests.csproj.CopyComplete
+E:\Fundamentals\Fundamentals\MyLinqTests\bin\Debug\MyLinqImplementation.dll
+E:\Fundamentals\Fundamentals\MyLinqTests\bin\Debug\MyLinqImplementation.pdb
