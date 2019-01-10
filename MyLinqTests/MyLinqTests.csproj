@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EmptyTests.cs" />
     <Compile Include="Helpers\BreakingSequence.cs" />
     <Compile Include="Helpers\NonEnumerable.cs" />
     <Compile Include="Helpers\NonEnumerableCollection.cs" />
