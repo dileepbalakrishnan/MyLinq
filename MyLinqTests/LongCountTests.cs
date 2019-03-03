@@ -61,20 +61,20 @@ namespace MyLinqTests
             Assert.AreEqual(2, Enumerable.Range(0, 5).LongCount(x => x % 2 > 0));
         }
 
-        //[Test]
-        //public void Overflow()
-        //{
-        //    var largeSequence = Enumerable.Range(0, int.MaxValue)
-        //        .Concat(Enumerable.Range(0, 1));
-        //    Assert.Throws<OverflowException>(() => largeSequence.Count());
-        //}
+        [Test]
+        public void Overflow()
+        {
+            var largeSequence = Enumerable.Range(0, int.MaxValue)
+                .Concat(Enumerable.Range(0, 1));
+            Assert.Throws<OverflowException>(() => largeSequence.Count());
+        }
 
-        //[Test]
-        //public void OverflowWithPredicate()
-        //{
-        //    var largeSequence = Enumerable.Range(0, int.MaxValue)
-        //        .Concat(Enumerable.Range(0, 1));
-        //    Assert.Throws<OverflowException>(() => largeSequence.Count(x => x >= 0));
-        //}
+        [Test]
+        public void OverflowWithPredicate()
+        {
+            var largeSequence = Enumerable.Range(0, int.MaxValue)
+                .Concat(Enumerable.Range(0, 1));
+            Assert.Throws<OverflowException>(() => largeSequence.Count(x => x >= 0));
+        }
     }
 }

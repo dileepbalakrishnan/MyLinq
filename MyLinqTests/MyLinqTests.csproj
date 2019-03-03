@@ -46,8 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConcatTests.cs" />
+    <Compile Include="CountTests.cs" />
     <Compile Include="EmptyTests.cs" />
     <Compile Include="Helpers\BreakingSequence.cs" />
+    <Compile Include="Helpers\GenericOnlyCollection.cs" />
     <Compile Include="Helpers\NonEnumerable.cs" />
     <Compile Include="Helpers\NonEnumerableCollection.cs" />
     <Compile Include="Helpers\ReferenceComparere.cs" />
@@ -56,6 +59,7 @@
     <Compile Include="Helpers\TestExtensions.cs" />
     <Compile Include="Helpers\ThrowingEnumerable.cs" />
     <Compile Include="Helpers\ThrowingEnumerator.cs" />
+    <Compile Include="LongCountTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RangeTests.cs" />
     <Compile Include="SelectTests.cs" />
