@@ -51,6 +51,10 @@
     <Compile Include="ConcatTests.cs" />
     <Compile Include="CountTests.cs" />
     <Compile Include="EmptyTests.cs" />
+    <Compile Include="LastOrDefault.cs" />
+    <Compile Include="FirstOrDefaultTests.cs" />
+    <Compile Include="LastTests.cs" />
+    <Compile Include="FirstTests.cs" />
     <Compile Include="Helpers\BreakingSequence.cs" />
     <Compile Include="Helpers\GenericOnlyCollection.cs" />
     <Compile Include="Helpers\NonEnumerable.cs" />
@@ -66,6 +70,8 @@
     <Compile Include="RangeTests.cs" />
     <Compile Include="SelectManyTests.cs" />
     <Compile Include="SelectTests.cs" />
+    <Compile Include="SingleOrDefaultTests.cs" />
+    <Compile Include="SingleTests.cs" />
     <Compile Include="WhereTests.cs" />
   </ItemGroup>
   <ItemGroup>

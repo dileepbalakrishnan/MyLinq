@@ -45,6 +45,12 @@
     <Compile Include="Concat.cs" />
     <Compile Include="Count.cs" />
     <Compile Include="Empty.cs" />
+    <Compile Include="Last.cs" />
+    <Compile Include="LastOrDefault.cs" />
+    <Compile Include="SingleOrDefault.cs" />
+    <Compile Include="Single.cs" />
+    <Compile Include="FirstOrDefault.cs" />
+    <Compile Include="First.cs" />
     <Compile Include="LongCount.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Select.cs" />
