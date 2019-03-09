@@ -13,6 +13,10 @@ namespace MyLinqTests.Helpers
             throw new NotSupportedException();
         }
 
+        public NonEnumerableList(IEnumerable<T> list)
+        {
+            _list = new List<T>(list);
+        }
         IEnumerator IEnumerable.GetEnumerator()
         {
             return GetEnumerator();
