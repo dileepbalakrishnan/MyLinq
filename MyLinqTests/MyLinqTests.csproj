@@ -75,6 +75,7 @@
     <Compile Include="SelectTests.cs" />
     <Compile Include="SingleOrDefaultTests.cs" />
     <Compile Include="SingleTests.cs" />
+    <Compile Include="UnionTests.cs" />
     <Compile Include="WhereTests.cs" />
   </ItemGroup>
   <ItemGroup>
