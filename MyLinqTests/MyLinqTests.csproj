@@ -56,6 +56,7 @@
     <Compile Include="EmptyTests.cs" />
     <Compile Include="ExceptTests.cs" />
     <Compile Include="IntersectTests.cs" />
+    <Compile Include="JoinTests.cs" />
     <Compile Include="LastOrDefault.cs" />
     <Compile Include="FirstOrDefaultTests.cs" />
     <Compile Include="LastTests.cs" />
@@ -77,6 +78,7 @@
     <Compile Include="SelectTests.cs" />
     <Compile Include="SingleOrDefaultTests.cs" />
     <Compile Include="SingleTests.cs" />
+    <Compile Include="ToLookupTests.cs" />
     <Compile Include="UnionTests.cs" />
     <Compile Include="WhereTests.cs" />
   </ItemGroup>

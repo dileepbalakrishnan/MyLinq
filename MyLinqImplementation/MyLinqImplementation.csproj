@@ -49,9 +49,13 @@
     <Compile Include="Distinct.cs" />
     <Compile Include="Empty.cs" />
     <Compile Include="Except.cs" />
+    <Compile Include="Grouping.cs" />
     <Compile Include="Intersect.cs" />
+    <Compile Include="Join.cs" />
     <Compile Include="Last.cs" />
     <Compile Include="LastOrDefault.cs" />
+    <Compile Include="Lookup.cs" />
+    <Compile Include="NullKeyFriendlyDictionary.cs" />
     <Compile Include="SingleOrDefault.cs" />
     <Compile Include="Single.cs" />
     <Compile Include="FirstOrDefault.cs" />
@@ -61,6 +65,7 @@
     <Compile Include="Select.cs" />
     <Compile Include="Range.cs" />
     <Compile Include="SelectMany.cs" />
+    <Compile Include="ToLookup.cs" />
     <Compile Include="Union.cs" />
     <Compile Include="Where.cs" />
   </ItemGroup>
