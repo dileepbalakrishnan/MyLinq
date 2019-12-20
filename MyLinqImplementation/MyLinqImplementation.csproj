@@ -50,6 +50,7 @@
     <Compile Include="Empty.cs" />
     <Compile Include="Except.cs" />
     <Compile Include="Grouping.cs" />
+    <Compile Include="GroupJoin.cs" />
     <Compile Include="Intersect.cs" />
     <Compile Include="Join.cs" />
     <Compile Include="Last.cs" />
@@ -65,6 +66,10 @@
     <Compile Include="Select.cs" />
     <Compile Include="Range.cs" />
     <Compile Include="SelectMany.cs" />
+    <Compile Include="SkipWhile.cs" />
+    <Compile Include="Skip.cs" />
+    <Compile Include="Take.cs" />
+    <Compile Include="TakeWhile.cs" />
     <Compile Include="ToList.cs" />
     <Compile Include="ToLookup.cs" />
     <Compile Include="Union.cs" />
